@@ -1,5 +1,5 @@
 # Email Domain Count
-## Python | DB Browser for SQLite
+Python | DB Browser for SQLite
 ## Process
 1. import sqlite3
 2. connect the database
